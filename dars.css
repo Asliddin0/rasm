@@ -1,0 +1,28 @@
+h1 {
+    background: black;
+    margin: auto;
+    padding-left: 600px;
+    padding-right: 600px;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 20;
+    padding-top: 20;
+    ;
+}
+
+#txt {
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.557);
+    margin-right: 30px;
+
+}
+#rasm {
+    margin-left: 30px;
+    border: solid;
+    border-color: red;
+}
+#rad {
+    border: solid;
+    border-color: blue;
+}
